@@ -1,0 +1,13 @@
+{
+  "title_accuracy": 100.0,
+  "author_accuracy": 100.0,
+  "abstract_accuracy": 100.0,
+  "reference_precision": 100.0,
+  "reference_recall": 100.0,
+  "citation_resolution_accuracy": 100.0,
+  "year_accuracy": 100.0,
+  "keyword_precision": 100.0,
+  "experiment_extraction_accuracy": 100.0,
+  "recommendation_precision": 100.0,
+  "overall_accuracy": 100.0
+}
